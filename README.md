@@ -1,6 +1,6 @@
 proj_code
 ====
-#RoCh Haus branch, see below for master. 
+#Roach Haus branch, see below for master details.
 ##Demo
 [https://rawgithub.com/schart/proj_code/master/demo/index.html](https://rawgithub.com/schart/proj_code/master/demo/index.html).
 ###Contribute
