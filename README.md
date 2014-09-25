@@ -1,6 +1,6 @@
 proj_code
 ====
-A "classic code" inspired web design project. (psst, it comes with an awesome terminal thing - check out the demo to see how it looks)
+#RoCh Haus branch, see below for master. 
 ##Demo
 [https://rawgithub.com/schart/proj_code/master/demo/index.html](https://rawgithub.com/schart/proj_code/master/demo/index.html).
 ###Contribute
