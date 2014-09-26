@@ -214,7 +214,7 @@ body{
   color:#b5e853;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Press+Start+2P);
+
 
 // Commodore 64 palette in original palette order
 $c64Black: #000;
@@ -241,7 +241,7 @@ $c64LightGrey: #959595;
 
 html {
   background: $c64Grey;
-  font-family: 'Press Start 2P', monospace;
+  font-family: monospace;
   // browser default size to 8px
   font-size: 50%;
 }
@@ -250,11 +250,8 @@ div {
   // IE8 fallback
   background: $c64White;
   color: $c64Black;
-  font-size: 2em;
-  
-  line-height: 1.25;
-  margin-bottom: .5em !important;
-  margin-top: .5em !important;
+
+
   text-transform: uppercase;
 }
 
